@@ -1,1 +1,1 @@
-US5: Là một người dùng, tôi muốn hệ thống cho phép xem lịch sử giao dịch để kiểm soát chi tiêu.
+US5: Là một người dùng, tôi muốn hệ thống cho phép xem lịch sử giao dịch để kiểm soát chi tiêuuu
